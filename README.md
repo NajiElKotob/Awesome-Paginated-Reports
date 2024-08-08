@@ -5,6 +5,7 @@
 ### Power Platform
 #### Power BI Report Builder
 * [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi)
+* [Power BI Paginated Reports in a Day course](https://learn.microsoft.com/en-us/power-bi/learning-catalog/paginated-reports-online-course)
 
 #### Tools
 * [Microsoft Power BI Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=105942)
