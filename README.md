@@ -9,6 +9,7 @@
 
 #### Tools
 * [Microsoft Power BI Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=105942)
+* [Reporting Services LoadTest](https://github.com/Microsoft/Reporting-Services-loadtest)
 
 #### Templates
 * [Sample Power BI paginated reports](https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-samples)
