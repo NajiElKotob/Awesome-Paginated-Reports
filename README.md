@@ -13,6 +13,13 @@
 
 -----
 
+#### Learning
+##### YouTube 📺
+* [Power BI Paginated Reports in a Day](https://www.youtube.com/playlist?list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wytpT) - Microsoft Power BI | The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.
+
+
+-----
+
 ### SQL Server Reporting Services (SSRS)
 #### SQL Server Report Builder
 * [What is SQL Server Reporting Services (SSRS)?](https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16)
