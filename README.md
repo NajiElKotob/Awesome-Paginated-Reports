@@ -18,6 +18,10 @@
 * [Power BI Paginated Reports in a Day](https://www.youtube.com/playlist?list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wytpT) - Microsoft Power BI | The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.
 * [Paginated Reports](https://www.youtube.com/playlist?list=PLclDw3xU_tI5bypr74FnLuLGTyuTfKpV1) - Hat Full Of Data | 12 short videos to get you going on creating your first Paginated Reports, plus any extra reports I create that include Paginated Reports.
 
+##### Courses
+###### Microsoft Learn
+* [Create paginated reports](https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/)
+
 ##### Articles
 * [Introduction to DAX for paginated reports](https://www.red-gate.com/simple-talk/featured/introduction-to-dax-for-paginated-reports/) - red-gate.com
   
