@@ -14,6 +14,9 @@
 #### Templates
 * [Sample Power BI paginated reports](https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-samples)
 
+#### Showcases
+* [Report Builder Templates](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/9d2c4a93e920/docs/Current/SSRSReporting/SS-SH-RptDirRBTemp.html) - trimble.com
+
 -----
 
 #### Learning
