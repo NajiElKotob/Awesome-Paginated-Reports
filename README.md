@@ -16,7 +16,8 @@
 
 #### Showcases
 * [Report Builder Templates](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/9d2c4a93e920/docs/Current/SSRSReporting/SS-SH-RptDirRBTemp.html) - trimble.com
-
+* [AdventureWorks Sample Reports](https://www.ssw.com.au/archive/standards/adventure-works-samples.html) - ssw.com.au
+  
 -----
 
 #### Learning
