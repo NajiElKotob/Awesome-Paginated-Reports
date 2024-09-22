@@ -33,9 +33,9 @@
 * [Introduction to DAX for paginated reports](https://www.red-gate.com/simple-talk/featured/introduction-to-dax-for-paginated-reports/) - red-gate.com
 * [When to Use Paginated Reports vs Interactive Power BI reports](https://sqlserverbi.blog/2022/02/04/when-to-use-paginated-reports-vs-interactive-power-bi-reports/) - sqlserverbi.blog
 * Security
- - [Sensitivity label support for paginated reports](https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-paginated-reports)
+  - [Sensitivity label support for paginated reports](https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-paginated-reports)
 * Code
- - [Add code to a paginated report (Report Builder)](https://learn.microsoft.com/en-us/sql/reporting-services/report-design/add-code-to-a-report-ssrs?view=sql-server-ver16)
+  - [Add code to a paginated report (Report Builder)](https://learn.microsoft.com/en-us/sql/reporting-services/report-design/add-code-to-a-report-ssrs?view=sql-server-ver16)
       
 -----
 
