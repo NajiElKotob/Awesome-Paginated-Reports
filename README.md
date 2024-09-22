@@ -1,9 +1,9 @@
-# Awesome Report Builder
+# Awesome Paginated Reports
 {Awesome Works in Progress}
 
 
 ## Power Platform
-### Power BI Report Builder
+### Power BI Paginated Reports
 #### Docs
 * [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi)
 
@@ -40,7 +40,7 @@
 -----
 
 ### SQL Server Reporting Services (SSRS)
-#### SQL Server Report Builder
+#### SQL Server Paginated Reports
 * [What is SQL Server Reporting Services (SSRS)?](https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16)
 * [Microsoft Report Builder in SQL Server](https://learn.microsoft.com/en-us/sql/reporting-services/report-builder/report-builder-in-sql-server-2016?view=sql-server-ver16)
 * [SSRS Report Builder 📺 85+ videos](https://www.youtube.com/playlist?list=PLNIs-AWhQzcmEFHyxCRwA_gb29WOz5SJU) - WiseOwlTutorials
