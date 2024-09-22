@@ -33,6 +33,7 @@
 
 ##### Tutorials
 * [Create a paginated report and upload it to the Power BI service](https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-quickstart-aw)
+* [Guide to Creating Multilingual Power BI Paginated Reports (Part 1)](https://www.linkedin.com/pulse/guide-creating-bilingual-power-bi-paginated-reports-eduard/) - Eduard Davidzhan
 
 ##### Articles
 * Power BI vs Paginated Reports
