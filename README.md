@@ -30,6 +30,9 @@
 ###### Microsoft Learn
 * [Create paginated reports](https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/)
 
+##### Tutorials
+* [Create a paginated report and upload it to the Power BI service](https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-quickstart-aw)
+
 ##### Articles
 * Power BI vs Paginated Reports
   - [When to Use Paginated Reports vs Interactive Power BI reports](https://sqlserverbi.blog/2022/02/04/when-to-use-paginated-reports-vs-interactive-power-bi-reports/) - sqlserverbi.blog
