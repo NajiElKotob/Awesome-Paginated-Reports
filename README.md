@@ -23,10 +23,10 @@
 
 #### Learning
 ##### YouTube 📺
-* [Power BI Paginated Reports in a Day](https://www.youtube.com/playlist?list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wytpT) - Microsoft Power BI | The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.
-* [Paginated Reports](https://www.youtube.com/playlist?list=PLclDw3xU_tI5bypr74FnLuLGTyuTfKpV1) - Hat Full Of Data | 12 short videos to get you going on creating your first Paginated Reports, plus any extra reports I create that include Paginated Reports.
+* [Power BI Paginated Reports in a Day](https://www.youtube.com/playlist?list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wytpT) ⭐ - Microsoft Power BI | The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.
+* [Paginated Reports](https://www.youtube.com/playlist?list=PLclDw3xU_tI5bypr74FnLuLGTyuTfKpV1) ⭐ - Hat Full Of Data | 12 short videos to get you going on creating your first Paginated Reports, plus any extra reports I create that include Paginated Reports.
 * [Get started with Power BI Paginated Reports](https://www.youtube.com/playlist?list=PLv2BtOtLblH1DC4XPMeuCFzQp_-EBu1iG) - Guy in a Cube
-
+* [Paginated Report Visual in Power BI](https://www.youtube.com/watch?v=-Jivj3ApC2Q) - Data Mozart
 ##### Courses
 ###### Microsoft Learn
 * [Create paginated reports](https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/)
