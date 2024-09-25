@@ -45,6 +45,8 @@
 * Power BI vs Paginated Reports
   - [When to Use Paginated Reports vs Interactive Power BI reports](https://sqlserverbi.blog/2022/02/04/when-to-use-paginated-reports-vs-interactive-power-bi-reports/) - sqlserverbi.blog
   - [Reporting with Power BI Report Builder](https://www.informatec.com/en/reporting-power-bi-report-builder) - informatec.com
+* Lookup
+  - [SQL Server Reporting Services Lookup, LookupSet and MultiLookup Functions](https://www.mssqltips.com/sqlservertip/2141/sql-server-reporting-services-lookup-lookupset-and-multilookup-functions/) - mssqltips.com
 * DAX
   - [Introduction to DAX for paginated reports](https://www.red-gate.com/simple-talk/featured/introduction-to-dax-for-paginated-reports/) - red-gate.com
 * Code
