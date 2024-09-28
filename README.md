@@ -28,7 +28,7 @@
 * [Get started with Power BI Paginated Reports](https://www.youtube.com/playlist?list=PLv2BtOtLblH1DC4XPMeuCFzQp_-EBu1iG) - Guy in a Cube
 * [The Secret of Paginated Report Parameters](https://www.youtube.com/watch?v=9qgFDkpfGPc) - Pragmatic Works
 * [Paginated Report Visual in Power BI](https://www.youtube.com/watch?v=-Jivj3ApC2Q) - Data Mozart
-
+* [CREATE INVOICES DYNAMICALLY using PAGINATED REPORTS in Power BI](https://www.youtube.com/watch?v=hafca1MPDwI) - Fernan
   
 ##### Courses
 ###### Microsoft Learn
