@@ -41,6 +41,7 @@
 * [Guide to Creating Multilingual Power BI Paginated Reports (Part 1)](https://www.linkedin.com/pulse/guide-creating-bilingual-power-bi-paginated-reports-eduard/) - Eduard Davidzhan
 * [Creating Mailing Labels in SQL Server Reporting Services](https://blogs.lessthandot.com/index.php/datamgmt/dbprogramming/mssqlserver/creating-mailing-labels-in-sql/) - lessthandot.com
 * [Multiple Row Grouping Levels in SSRS Report](https://www.mssqltips.com/sqlservertip/6533/multiple-row-grouping-levels-in-ssrs-report/) - mssqltips.com
+* [Create a data-driven subscription (SSRS Tutorial)](https://learn.microsoft.com/en-us/sql/reporting-services/create-a-data-driven-subscription-ssrs-tutorial?view=sql-server-ver16)
 
 ##### Articles
 * Power BI vs Paginated Reports
