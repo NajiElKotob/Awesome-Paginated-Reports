@@ -5,7 +5,7 @@
 ## Power Platform
 ### Power BI Paginated Reports
 #### Docs
-* [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi)
+* [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi) 📄
 
 #### Tools
 * [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi) | Power BI Report Builder is a tool for authoring paginated reports that you can publish to the Power BI service. Paginated reports are designed to be printed or shared. 
@@ -62,6 +62,6 @@
 
 ### SQL Server Reporting Services (SSRS)
 #### SQL Server Paginated Reports
-* [What is SQL Server Reporting Services (SSRS)?](https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16)
+* [What is SQL Server Reporting Services (SSRS)?](https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16) 📄
 * [Microsoft Report Builder in SQL Server](https://learn.microsoft.com/en-us/sql/reporting-services/report-builder/report-builder-in-sql-server-2016?view=sql-server-ver16)
 * [SSRS Report Builder 📺 85+ videos](https://www.youtube.com/playlist?list=PLNIs-AWhQzcmEFHyxCRwA_gb29WOz5SJU) - WiseOwlTutorials
