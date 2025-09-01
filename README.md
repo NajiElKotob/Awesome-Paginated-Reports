@@ -8,8 +8,8 @@
 * [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi) 📄
 
 #### Tools
-* [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi) | Power BI Report Builder is a tool for authoring paginated reports that you can publish to the Power BI service. Paginated reports are designed to be printed or shared. 
-* [Microsoft Power BI Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=105942)
+* [Microsoft Power BI Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=105942) | Power BI Report Builder is a tool for authoring paginated reports that you can publish to the Power BI service. Paginated reports are designed to be printed or shared. 
+* [Microsoft Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=53613&msockid=384df28e91e76f200fc5e7c790ff6e63)
 * [Reporting Services LoadTest](https://github.com/Microsoft/Reporting-Services-loadtest)
 
 #### Templates
