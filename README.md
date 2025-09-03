@@ -68,3 +68,4 @@
 * [SSRS Report Builder 📺 85+ videos](https://www.youtube.com/playlist?list=PLNIs-AWhQzcmEFHyxCRwA_gb29WOz5SJU) - WiseOwlTutorials
 * Pragmatic Works
   - [SSRS Subscription 📺 ~56min](https://www.youtube.com/watch?v=EfozSaBzlqk)
+  - [SSRS Report Builder - Saving to a Report Server](https://www.youtube.com/watch?v=2l5rNppaw8k)
