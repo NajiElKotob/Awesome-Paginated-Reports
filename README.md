@@ -31,6 +31,7 @@
 * [CREATE INVOICES DYNAMICALLY using PAGINATED REPORTS in Power BI](https://www.youtube.com/watch?v=hafca1MPDwI) - Fernan
 * [Power BI Paginated Reports](https://www.youtube.com/playlist?list=PLjNd3r1KLjQs-JsZ-PSb6gBKWu7F9GtPZ) - Analytics with Nags
 * [Publish/Migrate your RDL files from Power BI Report Server to the service](https://www.youtube.com/watch?v=58rLq8MF2mc) - Guy in a Cube
+* [Setting Up Dynamic Subscriptions for Power BI Reports](https://www.youtube.com/watch?v=CWY6kX9u3is) - Pragmatic Works
   
 ##### Courses
 ###### Microsoft Learn
